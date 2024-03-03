@@ -408,7 +408,6 @@
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
 					167B880506ED4D650053D305 = {
-						DevelopmentTeam = YDJAW5GX9U;
 						LastSwiftMigration = 1220;
 						ProvisioningStyle = Automatic;
 					};
@@ -715,13 +714,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.5.4;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				INFOPLIST_FILE = "Info-MIDIMonitor.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.4;
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.MIDIMonitor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.MIDIMonitor;
 				PRODUCT_NAME = "MIDI Monitor";
 				SWIFT_OBJC_BRIDGING_HEADER = "MIDIMonitor-Bridging-Header.h";
 				WRAPPER_EXTENSION = app;
@@ -743,13 +743,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.5.4;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				INFOPLIST_FILE = "Info-MIDIMonitor.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.5.4;
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.MIDIMonitor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.MIDIMonitor;
 				PRODUCT_NAME = "MIDI Monitor";
 				SWIFT_OBJC_BRIDGING_HEADER = "MIDIMonitor-Bridging-Header.h";
 				WRAPPER_EXTENSION = app;
