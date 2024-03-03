@@ -9,6 +9,6 @@ import Foundation
 
 extension Bundle {
 
-    static let snoizeMIDI = Bundle(identifier: "com.snoize.SnoizeMIDI")!
+    static let snoizeMIDI = Bundle(identifier: "com.pyrmontbrewery.midimonitor")!
 
 }

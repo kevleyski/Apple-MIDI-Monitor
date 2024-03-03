@@ -313,11 +313,9 @@
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
 					164103D709735FA5008DABCC = {
-						DevelopmentTeam = YDJAW5GX9U;
 						ProvisioningStyle = Automatic;
 					};
 					164103F409735FA6008DABCC = {
-						DevelopmentTeam = YDJAW5GX9U;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -474,10 +472,11 @@
 			baseConfigurationReference = 1641044809736388008DABCC /* Snoize-Framework-Debug.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = "Info-SnoizeMIDISpy.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.MIDISpyFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.midimonitor;
 				PRODUCT_NAME = SnoizeMIDISpy;
 				WRAPPER_EXTENSION = framework;
 			};
@@ -488,10 +487,11 @@
 			baseConfigurationReference = 1641044A09736388008DABCC /* Snoize-Framework-Release.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = "Info-SnoizeMIDISpy.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.MIDISpyFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.midimonitor;
 				PRODUCT_NAME = SnoizeMIDISpy;
 				WRAPPER_EXTENSION = framework;
 			};
@@ -501,12 +501,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				EXPORTED_SYMBOLS_FILE = Driver/SpyingMIDIDriver.exp;
 				INFOPLIST_FILE = "Info-SpyingMIDIDriver.plist";
 				INSTALL_PATH = "/Library/Audio/MIDI Drivers";
 				OTHER_CFLAGS = "-fno-sanitize=address";
 				OTHER_LDFLAGS = "-fno-sanitize=address";
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.MIDIMonitorDriver;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.midimonitor;
 				PRODUCT_NAME = "MIDI Monitor";
 				WRAPPER_EXTENSION = plugin;
 			};
@@ -516,12 +517,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				EXPORTED_SYMBOLS_FILE = Driver/SpyingMIDIDriver.exp;
 				INFOPLIST_FILE = "Info-SpyingMIDIDriver.plist";
 				INSTALL_PATH = "/Library/Audio/MIDI Drivers";
 				OTHER_CFLAGS = "-fno-sanitize=address";
 				OTHER_LDFLAGS = "-fno-sanitize=address";
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.MIDIMonitorDriver;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.midimonitor;
 				PRODUCT_NAME = "MIDI Monitor";
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = plugin;

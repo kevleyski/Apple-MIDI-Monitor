@@ -359,7 +359,6 @@
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					8DC2EF4F0486A6940098B216 = {
-						DevelopmentTeam = YDJAW5GX9U;
 						LastSwiftMigration = 1230;
 						ProvisioningStyle = Automatic;
 					};
@@ -517,6 +516,7 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -527,7 +527,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.SnoizeMIDI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.midimonitor;
 				PRODUCT_NAME = SnoizeMIDI;
 				SWIFT_VERSION = 5.0;
 				WRAPPER_EXTENSION = framework;
@@ -542,6 +542,7 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = LWT9LC92NG;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -552,7 +553,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.snoize.SnoizeMIDI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pyrmontbrewery.midimonitor;
 				PRODUCT_NAME = SnoizeMIDI;
 				SWIFT_VERSION = 5.0;
 				WRAPPER_EXTENSION = framework;
